@@ -1,5 +1,7 @@
 # jocke-vue-api-auth
 
+Min första hemsida skapat i Vue.js.
+
 ## Project setup
 ```
 npm install
