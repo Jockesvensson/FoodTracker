@@ -5,14 +5,7 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const config = {
-    apiKey: "AIzaSyAeUXkra97iSGKe-pBxVN1b1D7OwKaqAFI",
-    authDomain: "jocke-vue-api-auth.firebaseapp.com",
-    databaseURL: "https://jocke-vue-api-auth.firebaseio.com",
-    projectId: "jocke-vue-api-auth",
-    storageBucket: "jocke-vue-api-auth.appspot.com",
-    messagingSenderId: "716697620064",
-    appId: "1:716697620064:web:f9efbed774ba89a0f4bd05",
-    measurementId: "G-2W6Y1LNWZ1"
+
 };
 
 const database = firebase.initializeApp(config)
